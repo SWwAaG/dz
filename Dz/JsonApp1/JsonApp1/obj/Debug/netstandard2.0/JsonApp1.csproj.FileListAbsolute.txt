@@ -1,0 +1,15 @@
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\bin\Debug\netstandard2.0\JsonApp1.deps.json
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\bin\Debug\netstandard2.0\JsonApp1.dll
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\bin\Debug\netstandard2.0\ref\JsonApp1.dll
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\bin\Debug\netstandard2.0\JsonApp1.pdb
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\obj\Debug\netstandard2.0\JsonApp1.csproj.AssemblyReference.cache
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\obj\Debug\netstandard2.0\JsonApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\obj\Debug\netstandard2.0\JsonApp1.AssemblyInfoInputs.cache
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\obj\Debug\netstandard2.0\JsonApp1.AssemblyInfo.cs
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\obj\Debug\netstandard2.0\JsonApp1.csproj.CoreCompileInputs.cache
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\obj\Debug\netstandard2.0\JsonApp1.dll
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\obj\Debug\netstandard2.0\ref\JsonApp1.dll
+C:\Users\chepu\source\repos\JsonApp1\JsonApp1\obj\Debug\netstandard2.0\JsonApp1.pdb

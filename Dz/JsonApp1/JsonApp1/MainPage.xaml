@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="JsonApp1.MainPage">
+
+    <StackLayout BindableLayout.ItemsSource="{Binding LoadDataCommand}">
+        <BindableLayout.ItemTemplate>
+            <DataTemplate>
+                <Label FontSize="Medium" FontAttributes="Bold" Text="{Binding ColorsModel}" />
+            </DataTemplate>
+        </BindableLayout.ItemTemplate>
+        <Button Text="Загрузить данные" Command="{Binding LoadDataCommand}"  />
+        <Label FontSize="Medium" FontAttributes="Bold" Text="{Binding ColorsModel}" />
+        <Label FontSize="Medium" FontAttributes="Bold"  Text="{Binding Year}" />
+        <BoxView BackgroundColor="{Binding PantoneValue}"/>
+    </StackLayout>
+
+</ContentPage>
